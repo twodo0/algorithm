@@ -3,6 +3,7 @@
 *.iml
 out/
 *.class
+src/
 
 # macOS
 .DS_Store
